@@ -1,0 +1,6 @@
+*venv
+*.env
+*settings.py
+*wsgi.py
+*asgi.py
+*node_modules
